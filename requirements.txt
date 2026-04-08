@@ -1,0 +1,14 @@
+chromadb>=0.4.0
+sentence-transformers>=2.3.0
+transformers>=4.30.0
+torch>=2.0.0
+pdfplumber>=0.9.0
+Pillow>=10.0.0
+openai>=0.28.0
+gradio>=3.40.0
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+python-docx>=0.8.11
+python-pptx>=0.6.21
+flask>=2.3.0
+werkzeug>=2.3.0
